@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paintball No Texture
+* source:	https://sketchfab.com/3d-models/paintball-no-texture-317e3250368047518128827857d59def
+* author:	nichoindo123 (https://sketchfab.com/nichoindo123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paintball No Texture" (https://sketchfab.com/3d-models/paintball-no-texture-317e3250368047518128827857d59def) by nichoindo123 (https://sketchfab.com/nichoindo123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
